@@ -1,0 +1,36 @@
+.container{
+    width: 350px;
+    height: 130px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-left: 500px;
+    padding: 20px;
+    color: black;
+    background-color: rgb(251, 255, 0);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.input[ type="number"]{
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button{
+    width: 30%;
+    margin-left: 25px;
+    margin-top: 15px;
+    padding: 10px;
+    background-color: blue;
+    color: lightblue;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+h1{
+    margin-left: 555px;
+    margin-top: 200px;
+}
